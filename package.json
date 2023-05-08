@@ -9,8 +9,11 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@intlify/unplugin-vue-i18n": "^0.10.0",
     "oh-vue-icons": "^1.0.0-rc3",
-    "vue": "^3.2.47"
+    "swiper": "^9.2.4",
+    "vue": "^3.2.47",
+    "vue-i18n": "^9.2.2"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^4.1.0",
