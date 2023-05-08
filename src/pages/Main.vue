@@ -7,5 +7,8 @@ import Banner from '../components/layout/Banner.vue'
     <div class="absolute w-full">
         <Navbar />
         <Banner />
+        <div class="h-screen"></div>
+        <div class="h-screen"></div>
+        <div class="h-screen"></div>
     </div>
 </template>

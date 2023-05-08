@@ -6,7 +6,7 @@ const { topOfPage } = useNavbar();
 <template>
   <nav
     :class="`${
-      topOfPage ? 'bg-black/30 shadow-md' : 'bg-transparent'
+      topOfPage ? 'bg-black/30 shadow-md backdrop-blur-lg' : 'bg-transparent'
     } py-5 px-6 lg:px-20 sticky top-0 z-40 transition-all ease-in-out delay-100 duration-200`"
   >
     <div class="flex items-center justify-between">
