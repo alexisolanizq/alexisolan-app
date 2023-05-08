@@ -9,7 +9,7 @@ import image from '@/assets/images/alexis.svg'
   </div>
 
   <div class="relative z-10 left-0 p-6 lg:px-20 flex flex-col lg:flex-row items-center gap-10">
-    <div class="w-full lg:w-[47%] text-white lg:mt-12">
+    <div class="w-full lg:w-[47%] text-white pt-10">
       <h2 class="text-3xl lg:text-6xl text-center lg:text-left font-semibold mb-4 lg:mb-3">
         Soluciones de Diseño y Desarrollo Web
       </h2>

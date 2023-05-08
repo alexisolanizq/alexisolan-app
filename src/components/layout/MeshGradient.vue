@@ -37,7 +37,7 @@ import SpanCircles from "../layout/SpanCircles.vue";
     directionY="-top-8 delay-[3s]"
     transitionMove="animate-meshOne"
   />
-  <span class="absolute w-full h-full bg-black/20 backdrop-blur-[80px] m-0 p-0 z-40" />
+  <span class="absolute w-full h-full bg-black/5 lg:bg-black/20 backdrop-blur-[80px] m-0 p-0 z-40" />
   <svg
       class="absolute bottom-0 z-40 outline-none"
       id="wave"
